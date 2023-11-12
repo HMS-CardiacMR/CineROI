@@ -1,0 +1,1217 @@
+2023-05-11 11:21:40,435 - Starting server and listening for data at 10.35.73.65:9006
+2023-05-11 11:22:40,767 - Accepting connection from: 10.35.73.65:46306
+2023-05-11 11:22:41,766 - <-- Received MRD_MESSAGE_CONFIG_FILE (1)
+2023-05-11 11:22:41,769 - <-- Received MRD_MESSAGE_METADATA_XML_TEXT (3)
+2023-05-11 11:22:41,797 - Data is from a Siemens MAGNETOM Vida at 2.9T
+2023-05-11 11:22:41,797 - Starting regain segmentation processing based on config
+2023-05-11 11:22:41,797 - Config: 
+regain_segmentation
+2023-05-11 11:22:41,797 - Incoming dataset contains 1 encodings
+2023-05-11 11:22:41,797 - First encoding is of type 'trajectoryType.CARTESIAN', with a field of view of (416 x 256 x 1)mm^3 and a matrix size of (720.0 x 443.076935 x 8.0)
+2023-05-11 11:22:44,822 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,824 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,825 - imgGroupSize 1
+2023-05-11 11:22:44,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,831 - imgGroupSize 2
+2023-05-11 11:22:44,831 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,832 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,833 - imgGroupSize 3
+2023-05-11 11:22:44,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,840 - imgGroupSize 4
+2023-05-11 11:22:44,841 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,841 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,842 - imgGroupSize 5
+2023-05-11 11:22:44,842 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,843 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,844 - imgGroupSize 6
+2023-05-11 11:22:44,845 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,846 - imgGroupSize 7
+2023-05-11 11:22:44,852 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,853 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,855 - imgGroupSize 8
+2023-05-11 11:22:44,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,856 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,858 - imgGroupSize 9
+2023-05-11 11:22:44,858 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,859 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,860 - imgGroupSize 10
+2023-05-11 11:22:44,860 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,861 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,862 - imgGroupSize 11
+2023-05-11 11:22:44,862 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,863 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,863 - imgGroupSize 12
+2023-05-11 11:22:44,864 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,864 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,865 - imgGroupSize 13
+2023-05-11 11:22:44,865 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,866 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,866 - imgGroupSize 14
+2023-05-11 11:22:44,867 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,867 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,869 - imgGroupSize 15
+2023-05-11 11:22:44,869 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,869 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,870 - imgGroupSize 16
+2023-05-11 11:22:44,870 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,871 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,872 - imgGroupSize 17
+2023-05-11 11:22:44,872 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,872 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,874 - imgGroupSize 18
+2023-05-11 11:22:44,877 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,877 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,879 - imgGroupSize 19
+2023-05-11 11:22:44,899 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,900 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,901 - imgGroupSize 20
+2023-05-11 11:22:44,921 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,922 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,924 - imgGroupSize 21
+2023-05-11 11:22:44,943 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,944 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,945 - imgGroupSize 22
+2023-05-11 11:22:44,965 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,966 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,967 - imgGroupSize 23
+2023-05-11 11:22:44,987 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:44,988 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:44,990 - imgGroupSize 24
+2023-05-11 11:22:45,010 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:45,010 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:45,013 - imgGroupSize 25
+2023-05-11 11:22:49,812 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,813 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,814 - imgGroupSize 26
+2023-05-11 11:22:49,823 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,824 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,826 - imgGroupSize 27
+2023-05-11 11:22:49,827 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,827 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,829 - imgGroupSize 28
+2023-05-11 11:22:49,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,832 - imgGroupSize 29
+2023-05-11 11:22:49,832 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,832 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,834 - imgGroupSize 30
+2023-05-11 11:22:49,834 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,834 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,836 - imgGroupSize 31
+2023-05-11 11:22:49,836 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,838 - imgGroupSize 32
+2023-05-11 11:22:49,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,838 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,839 - imgGroupSize 33
+2023-05-11 11:22:49,843 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,844 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,847 - imgGroupSize 34
+2023-05-11 11:22:49,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,848 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,849 - imgGroupSize 35
+2023-05-11 11:22:49,849 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,851 - imgGroupSize 36
+2023-05-11 11:22:49,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,852 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,853 - imgGroupSize 37
+2023-05-11 11:22:49,853 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,855 - imgGroupSize 38
+2023-05-11 11:22:49,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,856 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,857 - imgGroupSize 39
+2023-05-11 11:22:49,857 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,858 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,859 - imgGroupSize 40
+2023-05-11 11:22:49,859 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,860 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,860 - imgGroupSize 41
+2023-05-11 11:22:49,861 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,861 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,863 - imgGroupSize 42
+2023-05-11 11:22:49,863 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,864 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,865 - imgGroupSize 43
+2023-05-11 11:22:49,865 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,865 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,866 - imgGroupSize 44
+2023-05-11 11:22:49,883 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,884 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,886 - imgGroupSize 45
+2023-05-11 11:22:49,906 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,907 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,909 - imgGroupSize 46
+2023-05-11 11:22:49,930 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,930 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,932 - imgGroupSize 47
+2023-05-11 11:22:49,952 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,953 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,955 - imgGroupSize 48
+2023-05-11 11:22:49,976 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:49,977 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:49,979 - imgGroupSize 49
+2023-05-11 11:22:49,999 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:50,000 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:50,001 - imgGroupSize 50
+2023-05-11 11:22:54,811 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,812 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,815 - imgGroupSize 51
+2023-05-11 11:22:54,815 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,815 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,817 - imgGroupSize 52
+2023-05-11 11:22:54,818 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,819 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,820 - imgGroupSize 53
+2023-05-11 11:22:54,824 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,825 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,826 - imgGroupSize 54
+2023-05-11 11:22:54,835 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,838 - imgGroupSize 55
+2023-05-11 11:22:54,839 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,840 - imgGroupSize 56
+2023-05-11 11:22:54,840 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,841 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,843 - imgGroupSize 57
+2023-05-11 11:22:54,843 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,843 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,844 - imgGroupSize 58
+2023-05-11 11:22:54,844 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,854 - imgGroupSize 59
+2023-05-11 11:22:54,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,855 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,857 - imgGroupSize 60
+2023-05-11 11:22:54,857 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,857 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,866 - imgGroupSize 61
+2023-05-11 11:22:54,866 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,867 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,867 - imgGroupSize 62
+2023-05-11 11:22:54,867 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,867 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,877 - imgGroupSize 63
+2023-05-11 11:22:54,877 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,878 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,879 - imgGroupSize 64
+2023-05-11 11:22:54,879 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,880 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,881 - imgGroupSize 65
+2023-05-11 11:22:54,881 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,881 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,882 - imgGroupSize 66
+2023-05-11 11:22:54,883 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,883 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,890 - imgGroupSize 67
+2023-05-11 11:22:54,890 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,891 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,894 - imgGroupSize 68
+2023-05-11 11:22:54,894 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,896 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,898 - imgGroupSize 69
+2023-05-11 11:22:54,898 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,899 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,901 - imgGroupSize 70
+2023-05-11 11:22:54,901 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,902 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,904 - imgGroupSize 71
+2023-05-11 11:22:54,922 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,923 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,925 - imgGroupSize 72
+2023-05-11 11:22:54,945 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,947 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,948 - imgGroupSize 73
+2023-05-11 11:22:54,968 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,968 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,971 - imgGroupSize 74
+2023-05-11 11:22:54,989 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:22:54,990 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:22:54,992 - imgGroupSize 75
+2023-05-11 11:23:23,813 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,814 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,815 - imgGroupSize 76
+2023-05-11 11:23:23,818 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,820 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,822 - imgGroupSize 77
+2023-05-11 11:23:23,822 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,822 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,824 - imgGroupSize 78
+2023-05-11 11:23:23,835 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,839 - imgGroupSize 79
+2023-05-11 11:23:23,840 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,840 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,841 - imgGroupSize 80
+2023-05-11 11:23:23,843 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,846 - imgGroupSize 81
+2023-05-11 11:23:23,846 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,847 - imgGroupSize 82
+2023-05-11 11:23:23,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,848 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,849 - imgGroupSize 83
+2023-05-11 11:23:23,850 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,851 - imgGroupSize 84
+2023-05-11 11:23:23,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,852 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,853 - imgGroupSize 85
+2023-05-11 11:23:23,853 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,855 - imgGroupSize 86
+2023-05-11 11:23:23,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,856 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,857 - imgGroupSize 87
+2023-05-11 11:23:23,857 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,858 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,859 - imgGroupSize 88
+2023-05-11 11:23:23,859 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,860 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,861 - imgGroupSize 89
+2023-05-11 11:23:23,861 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,861 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,863 - imgGroupSize 90
+2023-05-11 11:23:23,863 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,863 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,864 - imgGroupSize 91
+2023-05-11 11:23:23,864 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,865 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,866 - imgGroupSize 92
+2023-05-11 11:23:23,866 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,866 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,867 - imgGroupSize 93
+2023-05-11 11:23:23,867 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,868 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,869 - imgGroupSize 94
+2023-05-11 11:23:23,880 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,881 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,883 - imgGroupSize 95
+2023-05-11 11:23:23,903 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,904 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,906 - imgGroupSize 96
+2023-05-11 11:23:23,925 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,926 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,927 - imgGroupSize 97
+2023-05-11 11:23:23,947 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,947 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,949 - imgGroupSize 98
+2023-05-11 11:23:23,969 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,970 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,972 - imgGroupSize 99
+2023-05-11 11:23:23,991 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:23,992 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:23,994 - imgGroupSize 100
+2023-05-11 11:23:28,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,817 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,818 - imgGroupSize 101
+2023-05-11 11:23:28,820 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,821 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,823 - imgGroupSize 102
+2023-05-11 11:23:28,823 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,824 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,825 - imgGroupSize 103
+2023-05-11 11:23:28,825 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,827 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,828 - imgGroupSize 104
+2023-05-11 11:23:28,828 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,829 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,829 - imgGroupSize 105
+2023-05-11 11:23:28,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,831 - imgGroupSize 106
+2023-05-11 11:23:28,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,841 - imgGroupSize 107
+2023-05-11 11:23:28,841 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,842 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,843 - imgGroupSize 108
+2023-05-11 11:23:28,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,855 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,859 - imgGroupSize 109
+2023-05-11 11:23:28,859 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,859 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,861 - imgGroupSize 110
+2023-05-11 11:23:28,861 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,861 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,863 - imgGroupSize 111
+2023-05-11 11:23:28,864 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,864 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,865 - imgGroupSize 112
+2023-05-11 11:23:28,865 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,866 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,866 - imgGroupSize 113
+2023-05-11 11:23:28,867 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,867 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,868 - imgGroupSize 114
+2023-05-11 11:23:28,868 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,869 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,870 - imgGroupSize 115
+2023-05-11 11:23:28,870 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,871 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,873 - imgGroupSize 116
+2023-05-11 11:23:28,873 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,874 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,875 - imgGroupSize 117
+2023-05-11 11:23:28,875 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,876 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,878 - imgGroupSize 118
+2023-05-11 11:23:28,878 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,878 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,879 - imgGroupSize 119
+2023-05-11 11:23:28,884 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,885 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,887 - imgGroupSize 120
+2023-05-11 11:23:28,907 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,908 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,910 - imgGroupSize 121
+2023-05-11 11:23:28,929 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,930 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,932 - imgGroupSize 122
+2023-05-11 11:23:28,951 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,952 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,955 - imgGroupSize 123
+2023-05-11 11:23:28,974 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,975 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,977 - imgGroupSize 124
+2023-05-11 11:23:28,996 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:28,997 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:28,999 - imgGroupSize 125
+2023-05-11 11:23:33,810 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,811 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,812 - imgGroupSize 126
+2023-05-11 11:23:33,813 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,813 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,814 - imgGroupSize 127
+2023-05-11 11:23:33,815 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,815 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,817 - imgGroupSize 128
+2023-05-11 11:23:33,817 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,818 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,819 - imgGroupSize 129
+2023-05-11 11:23:33,822 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,823 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,825 - imgGroupSize 130
+2023-05-11 11:23:33,825 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,826 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,827 - imgGroupSize 131
+2023-05-11 11:23:33,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,842 - imgGroupSize 132
+2023-05-11 11:23:33,843 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,844 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,847 - imgGroupSize 133
+2023-05-11 11:23:33,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,847 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,848 - imgGroupSize 134
+2023-05-11 11:23:33,848 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,849 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,851 - imgGroupSize 135
+2023-05-11 11:23:33,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,852 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,853 - imgGroupSize 136
+2023-05-11 11:23:33,853 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,853 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,855 - imgGroupSize 137
+2023-05-11 11:23:33,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,856 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,857 - imgGroupSize 138
+2023-05-11 11:23:33,857 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,857 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,859 - imgGroupSize 139
+2023-05-11 11:23:33,859 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,859 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,861 - imgGroupSize 140
+2023-05-11 11:23:33,861 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,862 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,864 - imgGroupSize 141
+2023-05-11 11:23:33,864 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,864 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,866 - imgGroupSize 142
+2023-05-11 11:23:33,866 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,866 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,868 - imgGroupSize 143
+2023-05-11 11:23:33,868 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,868 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,869 - imgGroupSize 144
+2023-05-11 11:23:33,878 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,879 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,881 - imgGroupSize 145
+2023-05-11 11:23:33,901 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,901 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,903 - imgGroupSize 146
+2023-05-11 11:23:33,922 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,923 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,927 - imgGroupSize 147
+2023-05-11 11:23:33,944 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,945 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,948 - imgGroupSize 148
+2023-05-11 11:23:33,967 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,968 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,969 - imgGroupSize 149
+2023-05-11 11:23:33,989 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:23:33,989 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:23:33,992 - imgGroupSize 150
+2023-05-11 11:24:02,806 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,807 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,809 - imgGroupSize 151
+2023-05-11 11:24:02,809 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,810 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,811 - imgGroupSize 152
+2023-05-11 11:24:02,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,817 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,819 - imgGroupSize 153
+2023-05-11 11:24:02,819 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,820 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,820 - imgGroupSize 154
+2023-05-11 11:24:02,821 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,821 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,822 - imgGroupSize 155
+2023-05-11 11:24:02,822 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,823 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,824 - imgGroupSize 156
+2023-05-11 11:24:02,833 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,834 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,836 - imgGroupSize 157
+2023-05-11 11:24:02,836 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,839 - imgGroupSize 158
+2023-05-11 11:24:02,840 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,840 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,841 - imgGroupSize 159
+2023-05-11 11:24:02,842 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,842 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,844 - imgGroupSize 160
+2023-05-11 11:24:02,844 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,846 - imgGroupSize 161
+2023-05-11 11:24:02,846 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,847 - imgGroupSize 162
+2023-05-11 11:24:02,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,848 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,849 - imgGroupSize 163
+2023-05-11 11:24:02,849 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,851 - imgGroupSize 164
+2023-05-11 11:24:02,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,851 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,854 - imgGroupSize 165
+2023-05-11 11:24:02,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,855 - imgGroupSize 166
+2023-05-11 11:24:02,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,856 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,857 - imgGroupSize 167
+2023-05-11 11:24:02,857 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,857 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,858 - imgGroupSize 168
+2023-05-11 11:24:02,858 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,859 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,860 - imgGroupSize 169
+2023-05-11 11:24:02,877 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,878 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,879 - imgGroupSize 170
+2023-05-11 11:24:02,900 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,901 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,903 - imgGroupSize 171
+2023-05-11 11:24:02,924 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,924 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,926 - imgGroupSize 172
+2023-05-11 11:24:02,947 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,947 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,949 - imgGroupSize 173
+2023-05-11 11:24:02,970 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,971 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,973 - imgGroupSize 174
+2023-05-11 11:24:02,993 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:02,994 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:02,996 - imgGroupSize 175
+2023-05-11 11:24:07,813 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,814 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,815 - imgGroupSize 176
+2023-05-11 11:24:07,815 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,816 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,817 - imgGroupSize 177
+2023-05-11 11:24:07,818 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,819 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,821 - imgGroupSize 178
+2023-05-11 11:24:07,821 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,822 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,823 - imgGroupSize 179
+2023-05-11 11:24:07,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,831 - imgGroupSize 180
+2023-05-11 11:24:07,831 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,832 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,833 - imgGroupSize 181
+2023-05-11 11:24:07,835 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,838 - imgGroupSize 182
+2023-05-11 11:24:07,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,841 - imgGroupSize 183
+2023-05-11 11:24:07,845 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,848 - imgGroupSize 184
+2023-05-11 11:24:07,848 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,848 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,850 - imgGroupSize 185
+2023-05-11 11:24:07,850 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,851 - imgGroupSize 186
+2023-05-11 11:24:07,852 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,852 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,853 - imgGroupSize 187
+2023-05-11 11:24:07,853 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,855 - imgGroupSize 188
+2023-05-11 11:24:07,855 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,855 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,857 - imgGroupSize 189
+2023-05-11 11:24:07,858 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,858 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,860 - imgGroupSize 190
+2023-05-11 11:24:07,860 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,862 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,863 - imgGroupSize 191
+2023-05-11 11:24:07,863 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,863 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,864 - imgGroupSize 192
+2023-05-11 11:24:07,864 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,865 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,866 - imgGroupSize 193
+2023-05-11 11:24:07,866 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,866 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,867 - imgGroupSize 194
+2023-05-11 11:24:07,882 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,883 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,884 - imgGroupSize 195
+2023-05-11 11:24:07,905 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,906 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,908 - imgGroupSize 196
+2023-05-11 11:24:07,928 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,928 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,931 - imgGroupSize 197
+2023-05-11 11:24:07,950 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,951 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,953 - imgGroupSize 198
+2023-05-11 11:24:07,973 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,974 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,976 - imgGroupSize 199
+2023-05-11 11:24:07,996 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:07,996 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:07,998 - imgGroupSize 200
+2023-05-11 11:24:12,803 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,804 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,806 - imgGroupSize 201
+2023-05-11 11:24:12,813 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,814 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,816 - imgGroupSize 202
+2023-05-11 11:24:12,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,816 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,817 - imgGroupSize 203
+2023-05-11 11:24:12,817 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,818 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,819 - imgGroupSize 204
+2023-05-11 11:24:12,819 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,820 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,821 - imgGroupSize 205
+2023-05-11 11:24:12,821 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,821 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,823 - imgGroupSize 206
+2023-05-11 11:24:12,823 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,824 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,825 - imgGroupSize 207
+2023-05-11 11:24:12,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,832 - imgGroupSize 208
+2023-05-11 11:24:12,832 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,832 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,834 - imgGroupSize 209
+2023-05-11 11:24:12,834 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,834 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,836 - imgGroupSize 210
+2023-05-11 11:24:12,837 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,837 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,838 - imgGroupSize 211
+2023-05-11 11:24:12,839 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,840 - imgGroupSize 212
+2023-05-11 11:24:12,840 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,841 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,842 - imgGroupSize 213
+2023-05-11 11:24:12,842 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,843 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,845 - imgGroupSize 214
+2023-05-11 11:24:12,845 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,847 - imgGroupSize 215
+2023-05-11 11:24:12,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,847 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,850 - imgGroupSize 216
+2023-05-11 11:24:12,850 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,853 - imgGroupSize 217
+2023-05-11 11:24:12,853 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,853 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,854 - imgGroupSize 218
+2023-05-11 11:24:12,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,855 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,858 - imgGroupSize 219
+2023-05-11 11:24:12,872 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,872 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,874 - imgGroupSize 220
+2023-05-11 11:24:12,894 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,895 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,897 - imgGroupSize 221
+2023-05-11 11:24:12,916 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,917 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,919 - imgGroupSize 222
+2023-05-11 11:24:12,939 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,940 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,941 - imgGroupSize 223
+2023-05-11 11:24:12,961 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,962 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,964 - imgGroupSize 224
+2023-05-11 11:24:12,983 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:12,984 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:12,986 - imgGroupSize 225
+2023-05-11 11:24:41,813 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,814 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,816 - imgGroupSize 226
+2023-05-11 11:24:41,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,817 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,818 - imgGroupSize 227
+2023-05-11 11:24:41,818 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,819 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,820 - imgGroupSize 228
+2023-05-11 11:24:41,820 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,821 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,824 - imgGroupSize 229
+2023-05-11 11:24:41,824 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,825 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,826 - imgGroupSize 230
+2023-05-11 11:24:41,826 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,826 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,828 - imgGroupSize 231
+2023-05-11 11:24:41,828 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,828 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,829 - imgGroupSize 232
+2023-05-11 11:24:41,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,831 - imgGroupSize 233
+2023-05-11 11:24:41,831 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,831 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,832 - imgGroupSize 234
+2023-05-11 11:24:41,832 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,833 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,834 - imgGroupSize 235
+2023-05-11 11:24:41,835 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,838 - imgGroupSize 236
+2023-05-11 11:24:41,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,841 - imgGroupSize 237
+2023-05-11 11:24:41,841 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,842 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,843 - imgGroupSize 238
+2023-05-11 11:24:41,843 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,844 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,845 - imgGroupSize 239
+2023-05-11 11:24:41,845 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,847 - imgGroupSize 240
+2023-05-11 11:24:41,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,847 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,848 - imgGroupSize 241
+2023-05-11 11:24:41,848 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,849 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,850 - imgGroupSize 242
+2023-05-11 11:24:41,850 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,850 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,851 - imgGroupSize 243
+2023-05-11 11:24:41,859 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,860 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,861 - imgGroupSize 244
+2023-05-11 11:24:41,881 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,882 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,883 - imgGroupSize 245
+2023-05-11 11:24:41,903 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,904 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,907 - imgGroupSize 246
+2023-05-11 11:24:41,926 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,926 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,928 - imgGroupSize 247
+2023-05-11 11:24:41,948 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,948 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,951 - imgGroupSize 248
+2023-05-11 11:24:41,970 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,971 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,974 - imgGroupSize 249
+2023-05-11 11:24:41,993 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:41,993 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:41,995 - imgGroupSize 250
+2023-05-11 11:24:46,801 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,802 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,803 - imgGroupSize 251
+2023-05-11 11:24:46,811 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,812 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,814 - imgGroupSize 252
+2023-05-11 11:24:46,814 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,815 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,815 - imgGroupSize 253
+2023-05-11 11:24:46,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,816 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,817 - imgGroupSize 254
+2023-05-11 11:24:46,821 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,822 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,823 - imgGroupSize 255
+2023-05-11 11:24:46,824 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,824 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,825 - imgGroupSize 256
+2023-05-11 11:24:46,832 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,833 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,834 - imgGroupSize 257
+2023-05-11 11:24:46,834 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,835 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,836 - imgGroupSize 258
+2023-05-11 11:24:46,836 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,838 - imgGroupSize 259
+2023-05-11 11:24:46,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,838 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,839 - imgGroupSize 260
+2023-05-11 11:24:46,839 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,840 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,842 - imgGroupSize 261
+2023-05-11 11:24:46,842 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,843 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,844 - imgGroupSize 262
+2023-05-11 11:24:46,844 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,845 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,846 - imgGroupSize 263
+2023-05-11 11:24:46,846 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,847 - imgGroupSize 264
+2023-05-11 11:24:46,847 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,848 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,849 - imgGroupSize 265
+2023-05-11 11:24:46,849 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,849 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,850 - imgGroupSize 266
+2023-05-11 11:24:46,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,851 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,852 - imgGroupSize 267
+2023-05-11 11:24:46,852 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,853 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,854 - imgGroupSize 268
+2023-05-11 11:24:46,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,856 - imgGroupSize 269
+2023-05-11 11:24:46,869 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,870 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,872 - imgGroupSize 270
+2023-05-11 11:24:46,891 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,892 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,894 - imgGroupSize 271
+2023-05-11 11:24:46,913 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,914 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,916 - imgGroupSize 272
+2023-05-11 11:24:46,936 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,937 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,939 - imgGroupSize 273
+2023-05-11 11:24:46,958 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,959 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,960 - imgGroupSize 274
+2023-05-11 11:24:46,980 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:46,981 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:46,982 - imgGroupSize 275
+2023-05-11 11:24:51,802 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,803 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,806 - imgGroupSize 276
+2023-05-11 11:24:51,806 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,807 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,810 - imgGroupSize 277
+2023-05-11 11:24:51,810 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,810 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,812 - imgGroupSize 278
+2023-05-11 11:24:51,812 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,813 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,816 - imgGroupSize 279
+2023-05-11 11:24:51,816 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,817 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,817 - imgGroupSize 280
+2023-05-11 11:24:51,823 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,823 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,827 - imgGroupSize 281
+2023-05-11 11:24:51,827 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,827 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,829 - imgGroupSize 282
+2023-05-11 11:24:51,829 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,830 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,833 - imgGroupSize 283
+2023-05-11 11:24:51,833 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,833 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,836 - imgGroupSize 284
+2023-05-11 11:24:51,836 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,836 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,838 - imgGroupSize 285
+2023-05-11 11:24:51,838 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,839 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,842 - imgGroupSize 286
+2023-05-11 11:24:51,842 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,842 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,846 - imgGroupSize 287
+2023-05-11 11:24:51,846 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,846 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,848 - imgGroupSize 288
+2023-05-11 11:24:51,848 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,849 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,851 - imgGroupSize 289
+2023-05-11 11:24:51,851 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,851 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,853 - imgGroupSize 290
+2023-05-11 11:24:51,854 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,854 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,856 - imgGroupSize 291
+2023-05-11 11:24:51,856 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,857 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,860 - imgGroupSize 292
+2023-05-11 11:24:51,860 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,860 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,865 - imgGroupSize 293
+2023-05-11 11:24:51,865 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,865 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,867 - imgGroupSize 294
+2023-05-11 11:24:51,872 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,872 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,875 - imgGroupSize 295
+2023-05-11 11:24:51,895 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,895 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,899 - imgGroupSize 296
+2023-05-11 11:24:51,919 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,919 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,921 - imgGroupSize 297
+2023-05-11 11:24:51,941 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,942 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,944 - imgGroupSize 298
+2023-05-11 11:24:51,964 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,964 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,967 - imgGroupSize 299
+2023-05-11 11:24:51,986 - <-- Received MRD_MESSAGE_ISMRMRD_IMAGE (1022)
+2023-05-11 11:24:51,987 -     Image is size 1 x 208 x 208 with 1 channels of type float32
+2023-05-11 11:24:51,989 - imgGroupSize 300
+2023-05-11 11:24:52,363 - <-- Received MRD_MESSAGE_CLOSE (4)
+2023-05-11 11:24:52,363 - Processing a group of images (untriggered)
+2023-05-11 11:24:53,628 - Processed using SY_recon 1 / 300, minval: 0.000000, maxval : 142.548126 
+2023-05-11 11:24:53,687 - Processed using SY_recon 2 / 300, minval: 0.000000, maxval : 143.370819 
+2023-05-11 11:24:53,745 - Processed using SY_recon 3 / 300, minval: 0.000000, maxval : 142.304779 
+2023-05-11 11:24:53,802 - Processed using SY_recon 4 / 300, minval: 0.000000, maxval : 142.466812 
+2023-05-11 11:24:53,859 - Processed using SY_recon 5 / 300, minval: 0.000000, maxval : 144.006592 
+2023-05-11 11:24:53,917 - Processed using SY_recon 6 / 300, minval: 0.000000, maxval : 144.621521 
+2023-05-11 11:24:53,974 - Processed using SY_recon 7 / 300, minval: 0.000000, maxval : 143.965515 
+2023-05-11 11:24:54,032 - Processed using SY_recon 8 / 300, minval: 0.000000, maxval : 143.537994 
+2023-05-11 11:24:54,092 - Processed using SY_recon 9 / 300, minval: 0.000000, maxval : 142.603943 
+2023-05-11 11:24:54,149 - Processed using SY_recon 10 / 300, minval: 0.000000, maxval : 143.020676 
+2023-05-11 11:24:54,206 - Processed using SY_recon 11 / 300, minval: 0.000000, maxval : 142.850525 
+2023-05-11 11:24:54,263 - Processed using SY_recon 12 / 300, minval: 0.000000, maxval : 143.470932 
+2023-05-11 11:24:54,320 - Processed using SY_recon 13 / 300, minval: 0.000000, maxval : 143.429840 
+2023-05-11 11:24:54,378 - Processed using SY_recon 14 / 300, minval: 0.000000, maxval : 143.488220 
+2023-05-11 11:24:54,438 - Processed using SY_recon 15 / 300, minval: 0.000000, maxval : 143.618851 
+2023-05-11 11:24:54,496 - Processed using SY_recon 16 / 300, minval: 0.000000, maxval : 143.189346 
+2023-05-11 11:24:54,553 - Processed using SY_recon 17 / 300, minval: 0.000000, maxval : 142.615860 
+2023-05-11 11:24:54,610 - Processed using SY_recon 18 / 300, minval: 0.000000, maxval : 143.089706 
+2023-05-11 11:24:54,667 - Processed using SY_recon 19 / 300, minval: 0.000000, maxval : 143.330841 
+2023-05-11 11:24:54,724 - Processed using SY_recon 20 / 300, minval: 0.000000, maxval : 143.824432 
+2023-05-11 11:24:54,781 - Processed using SY_recon 21 / 300, minval: 0.000000, maxval : 142.141479 
+2023-05-11 11:24:54,838 - Processed using SY_recon 22 / 300, minval: 0.000000, maxval : 141.669159 
+2023-05-11 11:24:54,895 - Processed using SY_recon 23 / 300, minval: 0.000000, maxval : 143.024002 
+2023-05-11 11:24:54,953 - Processed using SY_recon 24 / 300, minval: 0.000000, maxval : 143.065323 
+2023-05-11 11:24:55,010 - Processed using SY_recon 25 / 300, minval: 0.000000, maxval : 141.514359 
+2023-05-11 11:24:55,067 - Processed using SY_recon 26 / 300, minval: 0.000000, maxval : 610.281555 
+2023-05-11 11:24:55,124 - Processed using SY_recon 27 / 300, minval: 0.000000, maxval : 610.324463 
+2023-05-11 11:24:55,183 - Processed using SY_recon 28 / 300, minval: 0.000000, maxval : 609.943787 
+2023-05-11 11:24:55,242 - Processed using SY_recon 29 / 300, minval: 0.000000, maxval : 610.239624 
+2023-05-11 11:24:55,301 - Processed using SY_recon 30 / 300, minval: 0.000000, maxval : 610.782776 
+2023-05-11 11:24:55,360 - Processed using SY_recon 31 / 300, minval: 0.000000, maxval : 610.592407 
+2023-05-11 11:24:55,419 - Processed using SY_recon 32 / 300, minval: 0.000000, maxval : 608.792419 
+2023-05-11 11:24:55,479 - Processed using SY_recon 33 / 300, minval: 0.000000, maxval : 608.401978 
+2023-05-11 11:24:55,538 - Processed using SY_recon 34 / 300, minval: 0.000000, maxval : 610.470337 
+2023-05-11 11:24:55,595 - Processed using SY_recon 35 / 300, minval: 0.000000, maxval : 611.240784 
+2023-05-11 11:24:55,654 - Processed using SY_recon 36 / 300, minval: 0.000000, maxval : 609.721741 
+2023-05-11 11:24:55,711 - Processed using SY_recon 37 / 300, minval: 0.000000, maxval : 609.983582 
+2023-05-11 11:24:55,767 - Processed using SY_recon 38 / 300, minval: 0.000000, maxval : 610.110901 
+2023-05-11 11:24:55,825 - Processed using SY_recon 39 / 300, minval: 0.000000, maxval : 609.872437 
+2023-05-11 11:24:55,882 - Processed using SY_recon 40 / 300, minval: 0.000000, maxval : 609.800049 
+2023-05-11 11:24:55,939 - Processed using SY_recon 41 / 300, minval: 0.000000, maxval : 608.915955 
+2023-05-11 11:24:55,996 - Processed using SY_recon 42 / 300, minval: 0.000000, maxval : 608.052307 
+2023-05-11 11:24:56,052 - Processed using SY_recon 43 / 300, minval: 0.000000, maxval : 609.584900 
+2023-05-11 11:24:56,110 - Processed using SY_recon 44 / 300, minval: 0.000000, maxval : 609.600769 
+2023-05-11 11:24:56,167 - Processed using SY_recon 45 / 300, minval: 0.000000, maxval : 608.591125 
+2023-05-11 11:24:56,224 - Processed using SY_recon 46 / 300, minval: 0.000000, maxval : 609.679565 
+2023-05-11 11:24:56,281 - Processed using SY_recon 47 / 300, minval: 0.000000, maxval : 610.467590 
+2023-05-11 11:24:56,338 - Processed using SY_recon 48 / 300, minval: 0.000000, maxval : 609.824463 
+2023-05-11 11:24:56,395 - Processed using SY_recon 49 / 300, minval: 0.000000, maxval : 611.425171 
+2023-05-11 11:24:56,452 - Processed using SY_recon 50 / 300, minval: 0.000000, maxval : 611.093567 
+2023-05-11 11:24:56,509 - Processed using SY_recon 51 / 300, minval: 0.000000, maxval : 612.788330 
+2023-05-11 11:24:56,568 - Processed using SY_recon 52 / 300, minval: 0.000000, maxval : 612.293884 
+2023-05-11 11:24:56,625 - Processed using SY_recon 53 / 300, minval: 0.000000, maxval : 612.950256 
+2023-05-11 11:24:56,682 - Processed using SY_recon 54 / 300, minval: 0.000000, maxval : 611.611084 
+2023-05-11 11:24:56,739 - Processed using SY_recon 55 / 300, minval: 0.000000, maxval : 613.581726 
+2023-05-11 11:24:56,796 - Processed using SY_recon 56 / 300, minval: 0.000000, maxval : 614.086487 
+2023-05-11 11:24:56,854 - Processed using SY_recon 57 / 300, minval: 0.000000, maxval : 614.622498 
+2023-05-11 11:24:56,910 - Processed using SY_recon 58 / 300, minval: 0.000000, maxval : 612.894531 
+2023-05-11 11:24:56,967 - Processed using SY_recon 59 / 300, minval: 0.000000, maxval : 612.713867 
+2023-05-11 11:24:57,025 - Processed using SY_recon 60 / 300, minval: 0.000000, maxval : 612.789429 
+2023-05-11 11:24:57,082 - Processed using SY_recon 61 / 300, minval: 0.000000, maxval : 610.947510 
+2023-05-11 11:24:57,139 - Processed using SY_recon 62 / 300, minval: 0.000000, maxval : 611.282532 
+2023-05-11 11:24:57,196 - Processed using SY_recon 63 / 300, minval: 0.000000, maxval : 613.416565 
+2023-05-11 11:24:57,254 - Processed using SY_recon 64 / 300, minval: 0.000000, maxval : 613.389282 
+2023-05-11 11:24:57,311 - Processed using SY_recon 65 / 300, minval: 0.000000, maxval : 612.235657 
+2023-05-11 11:24:57,368 - Processed using SY_recon 66 / 300, minval: 0.000000, maxval : 610.846497 
+2023-05-11 11:24:57,425 - Processed using SY_recon 67 / 300, minval: 0.000000, maxval : 612.610901 
+2023-05-11 11:24:57,482 - Processed using SY_recon 68 / 300, minval: 0.000000, maxval : 613.816711 
+2023-05-11 11:24:57,539 - Processed using SY_recon 69 / 300, minval: 0.000000, maxval : 613.640686 
+2023-05-11 11:24:57,596 - Processed using SY_recon 70 / 300, minval: 0.000000, maxval : 612.695740 
+2023-05-11 11:24:57,653 - Processed using SY_recon 71 / 300, minval: 0.000000, maxval : 614.194092 
+2023-05-11 11:24:57,710 - Processed using SY_recon 72 / 300, minval: 0.000000, maxval : 613.790344 
+2023-05-11 11:24:57,768 - Processed using SY_recon 73 / 300, minval: 0.000000, maxval : 612.272034 
+2023-05-11 11:24:57,825 - Processed using SY_recon 74 / 300, minval: 0.000000, maxval : 613.798950 
+2023-05-11 11:24:57,882 - Processed using SY_recon 75 / 300, minval: 0.000000, maxval : 612.882446 
+2023-05-11 11:24:57,939 - Processed using SY_recon 76 / 300, minval: 0.000000, maxval : 1010.445496 
+2023-05-11 11:24:57,996 - Processed using SY_recon 77 / 300, minval: 0.000000, maxval : 1010.737061 
+2023-05-11 11:24:58,053 - Processed using SY_recon 78 / 300, minval: 0.000000, maxval : 1011.540710 
+2023-05-11 11:24:58,110 - Processed using SY_recon 79 / 300, minval: 0.000000, maxval : 1012.746887 
+2023-05-11 11:24:58,167 - Processed using SY_recon 80 / 300, minval: 0.000000, maxval : 1011.140869 
+2023-05-11 11:24:58,224 - Processed using SY_recon 81 / 300, minval: 0.000000, maxval : 1010.874756 
+2023-05-11 11:24:58,281 - Processed using SY_recon 82 / 300, minval: 0.000000, maxval : 1010.852417 
+2023-05-11 11:24:58,338 - Processed using SY_recon 83 / 300, minval: 0.000000, maxval : 1011.719360 
+2023-05-11 11:24:58,395 - Processed using SY_recon 84 / 300, minval: 0.000000, maxval : 1013.083008 
+2023-05-11 11:24:58,452 - Processed using SY_recon 85 / 300, minval: 0.000000, maxval : 1010.982239 
+2023-05-11 11:24:58,509 - Processed using SY_recon 86 / 300, minval: 0.000000, maxval : 1010.451416 
+2023-05-11 11:24:58,568 - Processed using SY_recon 87 / 300, minval: 0.000000, maxval : 1012.900574 
+2023-05-11 11:24:58,627 - Processed using SY_recon 88 / 300, minval: 0.000000, maxval : 1013.242004 
+2023-05-11 11:24:58,688 - Processed using SY_recon 89 / 300, minval: 0.000000, maxval : 1011.354736 
+2023-05-11 11:24:58,747 - Processed using SY_recon 90 / 300, minval: 0.000000, maxval : 1011.313293 
+2023-05-11 11:24:58,806 - Processed using SY_recon 91 / 300, minval: 0.000000, maxval : 1012.047363 
+2023-05-11 11:24:58,864 - Processed using SY_recon 92 / 300, minval: 0.000000, maxval : 1011.143799 
+2023-05-11 11:24:58,925 - Processed using SY_recon 93 / 300, minval: 0.000000, maxval : 1011.604309 
+2023-05-11 11:24:58,982 - Processed using SY_recon 94 / 300, minval: 0.000000, maxval : 1010.583435 
+2023-05-11 11:24:59,038 - Processed using SY_recon 95 / 300, minval: 0.000000, maxval : 1012.395813 
+2023-05-11 11:24:59,095 - Processed using SY_recon 96 / 300, minval: 0.000000, maxval : 1012.588989 
+2023-05-11 11:24:59,152 - Processed using SY_recon 97 / 300, minval: 0.000000, maxval : 1011.172058 
+2023-05-11 11:24:59,209 - Processed using SY_recon 98 / 300, minval: 0.000000, maxval : 1011.598572 
+2023-05-11 11:24:59,266 - Processed using SY_recon 99 / 300, minval: 0.000000, maxval : 1012.773743 
+2023-05-11 11:24:59,323 - Processed using SY_recon 100 / 300, minval: 0.000000, maxval : 1011.639771 
+2023-05-11 11:24:59,380 - Processed using SY_recon 101 / 300, minval: 0.000000, maxval : 1086.200073 
+2023-05-11 11:24:59,437 - Processed using SY_recon 102 / 300, minval: 0.000000, maxval : 1086.052246 
+2023-05-11 11:24:59,495 - Processed using SY_recon 103 / 300, minval: 0.000000, maxval : 1083.578613 
+2023-05-11 11:24:59,552 - Processed using SY_recon 104 / 300, minval: 0.000000, maxval : 1084.895508 
+2023-05-11 11:24:59,611 - Processed using SY_recon 105 / 300, minval: 0.000000, maxval : 1085.826782 
+2023-05-11 11:24:59,670 - Processed using SY_recon 106 / 300, minval: 0.000000, maxval : 1086.365479 
+2023-05-11 11:24:59,727 - Processed using SY_recon 107 / 300, minval: 0.000000, maxval : 1088.216187 
+2023-05-11 11:24:59,788 - Processed using SY_recon 108 / 300, minval: 0.000000, maxval : 1086.172729 
+2023-05-11 11:24:59,845 - Processed using SY_recon 109 / 300, minval: 0.000000, maxval : 1086.034302 
+2023-05-11 11:24:59,902 - Processed using SY_recon 110 / 300, minval: 0.000000, maxval : 1084.995239 
+2023-05-11 11:24:59,959 - Processed using SY_recon 111 / 300, minval: 0.000000, maxval : 1086.589600 
+2023-05-11 11:25:00,016 - Processed using SY_recon 112 / 300, minval: 0.000000, maxval : 1085.654053 
+2023-05-11 11:25:00,073 - Processed using SY_recon 113 / 300, minval: 0.000000, maxval : 1083.695190 
+2023-05-11 11:25:00,129 - Processed using SY_recon 114 / 300, minval: 0.000000, maxval : 1083.557495 
+2023-05-11 11:25:00,187 - Processed using SY_recon 115 / 300, minval: 0.000000, maxval : 1084.541382 
+2023-05-11 11:25:00,244 - Processed using SY_recon 116 / 300, minval: 0.000000, maxval : 1085.661499 
+2023-05-11 11:25:00,301 - Processed using SY_recon 117 / 300, minval: 0.000000, maxval : 1084.293945 
+2023-05-11 11:25:00,358 - Processed using SY_recon 118 / 300, minval: 0.000000, maxval : 1082.080811 
+2023-05-11 11:25:00,415 - Processed using SY_recon 119 / 300, minval: 0.000000, maxval : 1083.920532 
+2023-05-11 11:25:00,472 - Processed using SY_recon 120 / 300, minval: 0.000000, maxval : 1085.273682 
+2023-05-11 11:25:00,529 - Processed using SY_recon 121 / 300, minval: 0.000000, maxval : 1087.410767 
+2023-05-11 11:25:00,586 - Processed using SY_recon 122 / 300, minval: 0.000000, maxval : 1084.197144 
+2023-05-11 11:25:00,643 - Processed using SY_recon 123 / 300, minval: 0.000000, maxval : 1085.099731 
+2023-05-11 11:25:00,700 - Processed using SY_recon 124 / 300, minval: 0.000000, maxval : 1085.598389 
+2023-05-11 11:25:00,760 - Processed using SY_recon 125 / 300, minval: 0.000000, maxval : 1085.350830 
+2023-05-11 11:25:00,817 - Processed using SY_recon 126 / 300, minval: 0.000000, maxval : 1137.530640 
+2023-05-11 11:25:00,874 - Processed using SY_recon 127 / 300, minval: 0.000000, maxval : 1137.058105 
+2023-05-11 11:25:00,931 - Processed using SY_recon 128 / 300, minval: 0.000000, maxval : 1139.569946 
+2023-05-11 11:25:00,988 - Processed using SY_recon 129 / 300, minval: 0.000000, maxval : 1137.466553 
+2023-05-11 11:25:01,045 - Processed using SY_recon 130 / 300, minval: 0.000000, maxval : 1138.145142 
+2023-05-11 11:25:01,102 - Processed using SY_recon 131 / 300, minval: 0.000000, maxval : 1138.155151 
+2023-05-11 11:25:01,160 - Processed using SY_recon 132 / 300, minval: 0.000000, maxval : 1137.586426 
+2023-05-11 11:25:01,217 - Processed using SY_recon 133 / 300, minval: 0.000000, maxval : 1138.531128 
+2023-05-11 11:25:01,274 - Processed using SY_recon 134 / 300, minval: 0.000000, maxval : 1137.564453 
+2023-05-11 11:25:01,331 - Processed using SY_recon 135 / 300, minval: 0.000000, maxval : 1139.522583 
+2023-05-11 11:25:01,388 - Processed using SY_recon 136 / 300, minval: 0.000000, maxval : 1137.904053 
+2023-05-11 11:25:01,445 - Processed using SY_recon 137 / 300, minval: 0.000000, maxval : 1137.958008 
+2023-05-11 11:25:01,501 - Processed using SY_recon 138 / 300, minval: 0.000000, maxval : 1138.329224 
+2023-05-11 11:25:01,559 - Processed using SY_recon 139 / 300, minval: 0.000000, maxval : 1138.994873 
+2023-05-11 11:25:01,616 - Processed using SY_recon 140 / 300, minval: 0.000000, maxval : 1138.546265 
+2023-05-11 11:25:01,673 - Processed using SY_recon 141 / 300, minval: 0.000000, maxval : 1137.372559 
+2023-05-11 11:25:01,730 - Processed using SY_recon 142 / 300, minval: 0.000000, maxval : 1138.084106 
+2023-05-11 11:25:01,787 - Processed using SY_recon 143 / 300, minval: 0.000000, maxval : 1138.409912 
+2023-05-11 11:25:01,844 - Processed using SY_recon 144 / 300, minval: 0.000000, maxval : 1139.516113 
+2023-05-11 11:25:01,901 - Processed using SY_recon 145 / 300, minval: 0.000000, maxval : 1140.326538 
+2023-05-11 11:25:01,958 - Processed using SY_recon 146 / 300, minval: 0.000000, maxval : 1140.196411 
+2023-05-11 11:25:02,017 - Processed using SY_recon 147 / 300, minval: 0.000000, maxval : 1139.077026 
+2023-05-11 11:25:02,076 - Processed using SY_recon 148 / 300, minval: 0.000000, maxval : 1137.547607 
+2023-05-11 11:25:02,135 - Processed using SY_recon 149 / 300, minval: 0.000000, maxval : 1139.583984 
+2023-05-11 11:25:02,194 - Processed using SY_recon 150 / 300, minval: 0.000000, maxval : 1140.603760 
+2023-05-11 11:25:02,253 - Processed using SY_recon 151 / 300, minval: 0.000000, maxval : 1188.047119 
+2023-05-11 11:25:02,312 - Processed using SY_recon 152 / 300, minval: 0.000000, maxval : 1189.678955 
+2023-05-11 11:25:02,371 - Processed using SY_recon 153 / 300, minval: 0.000000, maxval : 1187.864990 
+2023-05-11 11:25:02,428 - Processed using SY_recon 154 / 300, minval: 0.000000, maxval : 1185.494263 
+2023-05-11 11:25:02,489 - Processed using SY_recon 155 / 300, minval: 0.000000, maxval : 1188.747681 
+2023-05-11 11:25:02,547 - Processed using SY_recon 156 / 300, minval: 0.000000, maxval : 1188.667847 
+2023-05-11 11:25:02,606 - Processed using SY_recon 157 / 300, minval: 0.000000, maxval : 1185.215942 
+2023-05-11 11:25:02,663 - Processed using SY_recon 158 / 300, minval: 0.000000, maxval : 1185.050049 
+2023-05-11 11:25:02,720 - Processed using SY_recon 159 / 300, minval: 0.000000, maxval : 1186.233887 
+2023-05-11 11:25:02,777 - Processed using SY_recon 160 / 300, minval: 0.000000, maxval : 1185.931519 
+2023-05-11 11:25:02,834 - Processed using SY_recon 161 / 300, minval: 0.000000, maxval : 1185.452515 
+2023-05-11 11:25:02,891 - Processed using SY_recon 162 / 300, minval: 0.000000, maxval : 1189.182739 
+2023-05-11 11:25:02,948 - Processed using SY_recon 163 / 300, minval: 0.000000, maxval : 1188.711426 
+2023-05-11 11:25:03,005 - Processed using SY_recon 164 / 300, minval: 0.000000, maxval : 1184.393799 
+2023-05-11 11:25:03,062 - Processed using SY_recon 165 / 300, minval: 0.000000, maxval : 1186.184448 
+2023-05-11 11:25:03,119 - Processed using SY_recon 166 / 300, minval: 0.000000, maxval : 1190.152832 
+2023-05-11 11:25:03,176 - Processed using SY_recon 167 / 300, minval: 0.000000, maxval : 1186.930542 
+2023-05-11 11:25:03,233 - Processed using SY_recon 168 / 300, minval: 0.000000, maxval : 1186.117554 
+2023-05-11 11:25:03,290 - Processed using SY_recon 169 / 300, minval: 0.000000, maxval : 1187.440308 
+2023-05-11 11:25:03,347 - Processed using SY_recon 170 / 300, minval: 0.000000, maxval : 1187.223999 
+2023-05-11 11:25:03,404 - Processed using SY_recon 171 / 300, minval: 0.000000, maxval : 1186.129150 
+2023-05-11 11:25:03,461 - Processed using SY_recon 172 / 300, minval: 0.000000, maxval : 1185.810547 
+2023-05-11 11:25:03,518 - Processed using SY_recon 173 / 300, minval: 0.000000, maxval : 1185.782715 
+2023-05-11 11:25:03,575 - Processed using SY_recon 174 / 300, minval: 0.000000, maxval : 1187.847534 
+2023-05-11 11:25:03,632 - Processed using SY_recon 175 / 300, minval: 0.000000, maxval : 1186.669678 
+2023-05-11 11:25:03,693 - Processed using SY_recon 176 / 300, minval: 0.000000, maxval : 1162.014893 
+2023-05-11 11:25:03,750 - Processed using SY_recon 177 / 300, minval: 0.000000, maxval : 1161.628052 
+2023-05-11 11:25:03,807 - Processed using SY_recon 178 / 300, minval: 0.000000, maxval : 1159.768555 
+2023-05-11 11:25:03,864 - Processed using SY_recon 179 / 300, minval: 0.000000, maxval : 1159.961792 
+2023-05-11 11:25:03,921 - Processed using SY_recon 180 / 300, minval: 0.000000, maxval : 1160.641602 
+2023-05-11 11:25:03,978 - Processed using SY_recon 181 / 300, minval: 0.000000, maxval : 1160.718262 
+2023-05-11 11:25:04,035 - Processed using SY_recon 182 / 300, minval: 0.000000, maxval : 1161.350830 
+2023-05-11 11:25:04,092 - Processed using SY_recon 183 / 300, minval: 0.000000, maxval : 1161.306641 
+2023-05-11 11:25:04,149 - Processed using SY_recon 184 / 300, minval: 0.000000, maxval : 1163.165161 
+2023-05-11 11:25:04,206 - Processed using SY_recon 185 / 300, minval: 0.000000, maxval : 1162.408936 
+2023-05-11 11:25:04,263 - Processed using SY_recon 186 / 300, minval: 0.000000, maxval : 1162.183228 
+2023-05-11 11:25:04,320 - Processed using SY_recon 187 / 300, minval: 0.000000, maxval : 1163.531738 
+2023-05-11 11:25:04,377 - Processed using SY_recon 188 / 300, minval: 0.000000, maxval : 1161.278442 
+2023-05-11 11:25:04,434 - Processed using SY_recon 189 / 300, minval: 0.000000, maxval : 1164.111328 
+2023-05-11 11:25:04,491 - Processed using SY_recon 190 / 300, minval: 0.000000, maxval : 1163.735107 
+2023-05-11 11:25:04,548 - Processed using SY_recon 191 / 300, minval: 0.000000, maxval : 1161.064819 
+2023-05-11 11:25:04,605 - Processed using SY_recon 192 / 300, minval: 0.000000, maxval : 1160.918579 
+2023-05-11 11:25:04,662 - Processed using SY_recon 193 / 300, minval: 0.000000, maxval : 1161.095825 
+2023-05-11 11:25:04,719 - Processed using SY_recon 194 / 300, minval: 0.000000, maxval : 1159.963013 
+2023-05-11 11:25:04,776 - Processed using SY_recon 195 / 300, minval: 0.000000, maxval : 1159.679932 
+2023-05-11 11:25:04,833 - Processed using SY_recon 196 / 300, minval: 0.000000, maxval : 1160.940308 
+2023-05-11 11:25:04,891 - Processed using SY_recon 197 / 300, minval: 0.000000, maxval : 1160.953369 
+2023-05-11 11:25:04,949 - Processed using SY_recon 198 / 300, minval: 0.000000, maxval : 1162.576660 
+2023-05-11 11:25:05,006 - Processed using SY_recon 199 / 300, minval: 0.000000, maxval : 1164.281250 
+2023-05-11 11:25:05,063 - Processed using SY_recon 200 / 300, minval: 0.000000, maxval : 1164.677490 
+2023-05-11 11:25:05,120 - Processed using SY_recon 201 / 300, minval: 0.000000, maxval : 1173.193359 
+2023-05-11 11:25:05,177 - Processed using SY_recon 202 / 300, minval: 0.000000, maxval : 1172.002075 
+2023-05-11 11:25:05,234 - Processed using SY_recon 203 / 300, minval: 0.000000, maxval : 1172.665894 
+2023-05-11 11:25:05,291 - Processed using SY_recon 204 / 300, minval: 0.000000, maxval : 1173.170654 
+2023-05-11 11:25:05,348 - Processed using SY_recon 205 / 300, minval: 0.000000, maxval : 1172.024780 
+2023-05-11 11:25:05,407 - Processed using SY_recon 206 / 300, minval: 0.000000, maxval : 1171.026123 
+2023-05-11 11:25:05,466 - Processed using SY_recon 207 / 300, minval: 0.000000, maxval : 1171.335083 
+2023-05-11 11:25:05,525 - Processed using SY_recon 208 / 300, minval: 0.000000, maxval : 1173.406616 
+2023-05-11 11:25:05,584 - Processed using SY_recon 209 / 300, minval: 0.000000, maxval : 1175.280640 
+2023-05-11 11:25:05,643 - Processed using SY_recon 210 / 300, minval: 0.000000, maxval : 1173.518311 
+2023-05-11 11:25:05,703 - Processed using SY_recon 211 / 300, minval: 0.000000, maxval : 1173.010620 
+2023-05-11 11:25:05,762 - Processed using SY_recon 212 / 300, minval: 0.000000, maxval : 1172.315430 
+2023-05-11 11:25:05,818 - Processed using SY_recon 213 / 300, minval: 0.000000, maxval : 1170.728760 
+2023-05-11 11:25:05,875 - Processed using SY_recon 214 / 300, minval: 0.000000, maxval : 1170.250366 
+2023-05-11 11:25:05,932 - Processed using SY_recon 215 / 300, minval: 0.000000, maxval : 1170.756226 
+2023-05-11 11:25:05,990 - Processed using SY_recon 216 / 300, minval: 0.000000, maxval : 1172.652710 
+2023-05-11 11:25:06,047 - Processed using SY_recon 217 / 300, minval: 0.000000, maxval : 1172.395386 
+2023-05-11 11:25:06,104 - Processed using SY_recon 218 / 300, minval: 0.000000, maxval : 1169.904297 
+2023-05-11 11:25:06,161 - Processed using SY_recon 219 / 300, minval: 0.000000, maxval : 1169.808350 
+2023-05-11 11:25:06,218 - Processed using SY_recon 220 / 300, minval: 0.000000, maxval : 1170.261719 
+2023-05-11 11:25:06,275 - Processed using SY_recon 221 / 300, minval: 0.000000, maxval : 1171.889648 
+2023-05-11 11:25:06,332 - Processed using SY_recon 222 / 300, minval: 0.000000, maxval : 1172.823364 
+2023-05-11 11:25:06,389 - Processed using SY_recon 223 / 300, minval: 0.000000, maxval : 1170.620239 
+2023-05-11 11:25:06,446 - Processed using SY_recon 224 / 300, minval: 0.000000, maxval : 1171.285156 
+2023-05-11 11:25:06,503 - Processed using SY_recon 225 / 300, minval: 0.000000, maxval : 1171.217529 
+2023-05-11 11:25:06,560 - Processed using SY_recon 226 / 300, minval: 0.000000, maxval : 1239.542725 
+2023-05-11 11:25:06,617 - Processed using SY_recon 227 / 300, minval: 0.000000, maxval : 1239.485352 
+2023-05-11 11:25:06,676 - Processed using SY_recon 228 / 300, minval: 0.000000, maxval : 1239.070190 
+2023-05-11 11:25:06,733 - Processed using SY_recon 229 / 300, minval: 0.000000, maxval : 1238.377319 
+2023-05-11 11:25:06,790 - Processed using SY_recon 230 / 300, minval: 0.000000, maxval : 1236.624756 
+2023-05-11 11:25:06,847 - Processed using SY_recon 231 / 300, minval: 0.000000, maxval : 1235.545532 
+2023-05-11 11:25:06,904 - Processed using SY_recon 232 / 300, minval: 0.000000, maxval : 1236.158203 
+2023-05-11 11:25:06,961 - Processed using SY_recon 233 / 300, minval: 0.000000, maxval : 1236.724731 
+2023-05-11 11:25:07,018 - Processed using SY_recon 234 / 300, minval: 0.000000, maxval : 1238.875000 
+2023-05-11 11:25:07,075 - Processed using SY_recon 235 / 300, minval: 0.000000, maxval : 1239.734009 
+2023-05-11 11:25:07,132 - Processed using SY_recon 236 / 300, minval: 0.000000, maxval : 1239.161987 
+2023-05-11 11:25:07,189 - Processed using SY_recon 237 / 300, minval: 0.000000, maxval : 1239.161133 
+2023-05-11 11:25:07,246 - Processed using SY_recon 238 / 300, minval: 0.000000, maxval : 1240.542603 
+2023-05-11 11:25:07,303 - Processed using SY_recon 239 / 300, minval: 0.000000, maxval : 1238.866333 
+2023-05-11 11:25:07,360 - Processed using SY_recon 240 / 300, minval: 0.000000, maxval : 1237.466309 
+2023-05-11 11:25:07,417 - Processed using SY_recon 241 / 300, minval: 0.000000, maxval : 1240.208008 
+2023-05-11 11:25:07,474 - Processed using SY_recon 242 / 300, minval: 0.000000, maxval : 1241.731812 
+2023-05-11 11:25:07,531 - Processed using SY_recon 243 / 300, minval: 0.000000, maxval : 1241.629517 
+2023-05-11 11:25:07,588 - Processed using SY_recon 244 / 300, minval: 0.000000, maxval : 1242.592285 
+2023-05-11 11:25:07,646 - Processed using SY_recon 245 / 300, minval: 0.000000, maxval : 1242.469360 
+2023-05-11 11:25:07,703 - Processed using SY_recon 246 / 300, minval: 0.000000, maxval : 1240.828613 
+2023-05-11 11:25:07,760 - Processed using SY_recon 247 / 300, minval: 0.000000, maxval : 1238.169922 
+2023-05-11 11:25:07,818 - Processed using SY_recon 248 / 300, minval: 0.000000, maxval : 1238.567749 
+2023-05-11 11:25:07,875 - Processed using SY_recon 249 / 300, minval: 0.000000, maxval : 1239.857300 
+2023-05-11 11:25:07,932 - Processed using SY_recon 250 / 300, minval: 0.000000, maxval : 1239.729858 
+2023-05-11 11:25:07,989 - Processed using SY_recon 251 / 300, minval: 0.000000, maxval : 713.035889 
+2023-05-11 11:25:08,046 - Processed using SY_recon 252 / 300, minval: 0.000000, maxval : 716.262573 
+2023-05-11 11:25:08,103 - Processed using SY_recon 253 / 300, minval: 0.000000, maxval : 711.981995 
+2023-05-11 11:25:08,159 - Processed using SY_recon 254 / 300, minval: 0.000000, maxval : 710.815308 
+2023-05-11 11:25:08,216 - Processed using SY_recon 255 / 300, minval: 0.000000, maxval : 710.393066 
+2023-05-11 11:25:08,273 - Processed using SY_recon 256 / 300, minval: 0.000000, maxval : 709.675293 
+2023-05-11 11:25:08,331 - Processed using SY_recon 257 / 300, minval: 0.000000, maxval : 710.163574 
+2023-05-11 11:25:08,388 - Processed using SY_recon 258 / 300, minval: 0.000000, maxval : 709.289673 
+2023-05-11 11:25:08,445 - Processed using SY_recon 259 / 300, minval: 0.000000, maxval : 711.957947 
+2023-05-11 11:25:08,502 - Processed using SY_recon 260 / 300, minval: 0.000000, maxval : 713.852905 
+2023-05-11 11:25:08,559 - Processed using SY_recon 261 / 300, minval: 0.000000, maxval : 713.932922 
+2023-05-11 11:25:08,616 - Processed using SY_recon 262 / 300, minval: 0.000000, maxval : 714.548706 
+2023-05-11 11:25:08,673 - Processed using SY_recon 263 / 300, minval: 0.000000, maxval : 714.333496 
+2023-05-11 11:25:08,730 - Processed using SY_recon 264 / 300, minval: 0.000000, maxval : 714.058899 
+2023-05-11 11:25:08,787 - Processed using SY_recon 265 / 300, minval: 0.000000, maxval : 713.382812 
+2023-05-11 11:25:08,846 - Processed using SY_recon 266 / 300, minval: 0.000000, maxval : 712.367126 
+2023-05-11 11:25:08,906 - Processed using SY_recon 267 / 300, minval: 0.000000, maxval : 712.598145 
+2023-05-11 11:25:08,965 - Processed using SY_recon 268 / 300, minval: 0.000000, maxval : 711.761841 
+2023-05-11 11:25:09,025 - Processed using SY_recon 269 / 300, minval: 0.000000, maxval : 708.363403 
+2023-05-11 11:25:09,084 - Processed using SY_recon 270 / 300, minval: 0.000000, maxval : 708.469055 
+2023-05-11 11:25:09,143 - Processed using SY_recon 271 / 300, minval: 0.000000, maxval : 709.565979 
+2023-05-11 11:25:09,201 - Processed using SY_recon 272 / 300, minval: 0.000000, maxval : 709.384583 
+2023-05-11 11:25:09,258 - Processed using SY_recon 273 / 300, minval: 0.000000, maxval : 709.829041 
+2023-05-11 11:25:09,316 - Processed using SY_recon 274 / 300, minval: 0.000000, maxval : 710.319519 
+2023-05-11 11:25:09,373 - Processed using SY_recon 275 / 300, minval: 0.000000, maxval : 711.083618 
+2023-05-11 11:25:09,430 - Processed using SY_recon 276 / 300, minval: 0.000000, maxval : 88.328918 
+2023-05-11 11:25:09,486 - Processed using SY_recon 277 / 300, minval: 0.000000, maxval : 87.610641 
+2023-05-11 11:25:09,544 - Processed using SY_recon 278 / 300, minval: 0.000000, maxval : 86.912865 
+2023-05-11 11:25:09,601 - Processed using SY_recon 279 / 300, minval: 0.000000, maxval : 88.081657 
+2023-05-11 11:25:09,658 - Processed using SY_recon 280 / 300, minval: 0.000000, maxval : 88.767616 
+2023-05-11 11:25:09,715 - Processed using SY_recon 281 / 300, minval: 0.000000, maxval : 89.442276 
+2023-05-11 11:25:09,772 - Processed using SY_recon 282 / 300, minval: 0.000000, maxval : 89.270866 
+2023-05-11 11:25:09,829 - Processed using SY_recon 283 / 300, minval: 0.000000, maxval : 88.034668 
+2023-05-11 11:25:09,887 - Processed using SY_recon 284 / 300, minval: 0.000000, maxval : 87.519745 
+2023-05-11 11:25:09,944 - Processed using SY_recon 285 / 300, minval: 0.000000, maxval : 88.180031 
+2023-05-11 11:25:10,001 - Processed using SY_recon 286 / 300, minval: 0.000000, maxval : 88.471474 
+2023-05-11 11:25:10,058 - Processed using SY_recon 287 / 300, minval: 0.000000, maxval : 88.911278 
+2023-05-11 11:25:10,117 - Processed using SY_recon 288 / 300, minval: 0.000000, maxval : 89.026352 
+2023-05-11 11:25:10,176 - Processed using SY_recon 289 / 300, minval: 0.000000, maxval : 88.903900 
+2023-05-11 11:25:10,233 - Processed using SY_recon 290 / 300, minval: 0.000000, maxval : 88.220810 
+2023-05-11 11:25:10,290 - Processed using SY_recon 291 / 300, minval: 0.000000, maxval : 87.402069 
+2023-05-11 11:25:10,347 - Processed using SY_recon 292 / 300, minval: 0.000000, maxval : 89.072952 
+2023-05-11 11:25:10,404 - Processed using SY_recon 293 / 300, minval: 0.000000, maxval : 90.638962 
+2023-05-11 11:25:10,461 - Processed using SY_recon 294 / 300, minval: 0.000000, maxval : 89.304626 
+2023-05-11 11:25:10,518 - Processed using SY_recon 295 / 300, minval: 0.000000, maxval : 88.383781 
+2023-05-11 11:25:10,576 - Processed using SY_recon 296 / 300, minval: 0.000000, maxval : 87.702103 
+2023-05-11 11:25:10,635 - Processed using SY_recon 297 / 300, minval: 0.000000, maxval : 88.216805 
+2023-05-11 11:25:10,692 - Processed using SY_recon 298 / 300, minval: 0.000000, maxval : 88.617683 
+2023-05-11 11:25:10,749 - Processed using SY_recon 299 / 300, minval: 0.000000, maxval : 88.218231 
+2023-05-11 11:25:10,807 - Processed using SY_recon 300 / 300, minval: 0.000000, maxval : 87.758652 
+2023-05-11 11:25:10,858 - Begining segmentation...
+2023-05-11 11:25:20,583 - Segmentation complete...
+2023-05-11 11:25:20,702 - --> Sending MRD_MESSAGE_ISMRMRD_IMAGE (1022) (301 images)
+2023-05-11 11:25:23,167 - --> Sending MRD_MESSAGE_CLOSE (4)
+2023-05-11 11:25:23,189 - Socket closed
